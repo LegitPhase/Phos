@@ -17,6 +17,10 @@ Please run the .exe in a vm. it doesnt have any vm checks, also no auth since he
   (https://www.youtube.com/watch?v=0JwKKjF2ke0)
 - him tryna sell his ac to someone pt 1
   (https://api-minecraft.net/v1/xofq28zp.png)
+- stupidity
+  (https://api-minecraft.net/v1/ciq5epu4.png)
+- early days of pasting
+  (https://api-minecraft.net/v1/126b6kst.png)
 
 
 ### The AutoClicker is skidded from Peces Clicker ( 2020 autoclicker ahh )
