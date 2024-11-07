@@ -21,8 +21,6 @@ Please run the .exe in a vm. it doesnt have any vm checks, also no auth since he
   (https://api-minecraft.net/v1/ciq5epu4.png)
 - early days of pasting
   (https://api-minecraft.net/v1/126b6kst.png)
-- what the sigma
-  ([https://api-minecraft.net/v1/q3kbvde7.png](https://api-minecraft.net/v1/yezxxxc4.png))
 
 
 ### The AutoClicker is skidded from Peces Clicker ( 2020 autoclicker ahh )
