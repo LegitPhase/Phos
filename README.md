@@ -3,6 +3,10 @@
 Another skid trying to sell an autoclicker
 Please run the .exe in a vm. it doesnt have any vm checks, also no auth since hes too incompetent to make one.
 
+The backtrack slows down your game. He calls it a backtrack for some reason.
+
+
+
 - Skidding Raven XD and renamint it Blat Client
   (https://api-minecraft.net/v1/m2b6zyj8.png)
 - Detected Autoclicker by Echo
@@ -21,6 +25,8 @@ Please run the .exe in a vm. it doesnt have any vm checks, also no auth since he
   (https://api-minecraft.net/v1/ciq5epu4.png)
 - early days of pasting
   (https://api-minecraft.net/v1/126b6kst.png)
+
+
 
 
 ### The AutoClicker is skidded from Peces Clicker ( 2020 autoclicker ahh )
